@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configvelete",
+        "uuid": 30271605,
+        "checksum": "3pgopv"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
